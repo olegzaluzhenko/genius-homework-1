@@ -1,1 +1,1 @@
-# genius-fullStack
+# genius-homework-1
